@@ -1,4 +1,5 @@
 package es.dsw.app;
+import es.dsw.models.Alumno;
 import es.dsw.models.Profesor;
 
 public class Actividad7Application {
